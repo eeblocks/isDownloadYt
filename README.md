@@ -13,6 +13,5 @@ Check the problems.txt file
 5.- If your video still cannot be downloaded
 It is possible that the video to be downloaded is compatible with the program and this may cause an error.
 
-------------------------------------------------
-Follow me on GitHub: https://github.com/esiquiel
-------------------------------------------------
+
+¡Give me a Star!
