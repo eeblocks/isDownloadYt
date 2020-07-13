@@ -1,0 +1,10 @@
+ERROR (from pytube.compat import quote)
+SOLUTION(
+Edit the '.../lib/python3.6/site-packages/pytube/compat.py'
+elif PY3:
+    from urllib import request
+    from urllib.parse import quote, urlencode, parse_qsl, unquote
+    from urllib.request import urlopen
+)
+
+**ACLARATION**: Don't replace the code in that file with this code, just add this.
